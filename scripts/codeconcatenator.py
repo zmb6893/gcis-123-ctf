@@ -6,9 +6,9 @@ import webbrowser
 
 # open the solution files
 try:
-    a = open("/solution/solution-1.txt").read()
-    b = open("/solution/solution-2.txt").read()
-    c = open("/solution/solution-3.txt").read()
+    a = open("../solution/solution-1.txt").read()
+    b = open("../solution/solution-2.txt").read()
+    c = open("../solution/solution-3.txt").read()
 except FileNotFoundError:
     print("ERROR: Make sure that \"solution-1.txt\", \"solution-2.txt\", and \"solution-3.txt\" all exist")
     exit()
