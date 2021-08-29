@@ -1,0 +1,6 @@
+I put the third clue in a file, committed and push it.
+Then, I deleted it.
+
+What can you do to get it back?
+
+Once you find it, put it in a "3.txt" file into the /solution/ directory.

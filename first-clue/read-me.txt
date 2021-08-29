@@ -1,0 +1,9 @@
+In the random/ directory,
+
+Remove all files that are not txt files and the files with the prefix "sub" (ex. subway.txt, submarine.txt):
+
+
+For all text files that start with "a":
+1. get their contents
+2. put it into a text file called "solution-1.txt"
+3. put "solution-1.txt" into the /solution/

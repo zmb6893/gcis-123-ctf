@@ -1,0 +1,10 @@
+
+Make a "solution-2.txt" to record your answers (no spaces, no new lines). 
+
+1. How many directories are there in the root directory?
+
+2. In the "images" directory, find the image file that includes the letter "q" in its filename and open it. Record the result.
+
+3. What is "M" upside down(Uppercase). What is the (Lowercase) seventh letter of the alphabet.
+
+Put "solution-2.txt" into "/solution/".

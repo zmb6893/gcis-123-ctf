@@ -1,0 +1,62 @@
+.footer-contri-container {
+	height:70px;
+	padding-top: 11px;
+}
+.footer-contri-left {
+    float: left;
+    width: 66px;
+    height: 70px;
+    background-color: #1a170d;
+     background-size: 35px 31px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5px 0 0 5px;
+}
+.footer-contri-right {
+    float: left;
+    background: #f2f2f2;
+    height: 70px;
+    width: 190px;
+    border-radius: 0 5px 5px 0;
+}
+.footer-contri-title {
+	/*font-size: 16px;*/
+	font-weight:600;
+	padding-left: 10px;
+	padding-top: 22px;
+}
+.footer-contri-title.padding-special {
+	padding-top: 16px !important;
+}
+.footer-contri-subtitle {
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+/* overwrite 123rf_v011.css */
+.footer_cols .footer_cols_title {
+    color: #333333 !important;
+}
+.footer_cols a:link, .footer_cols a:visited {
+	color: #4a4a4a !important;
+}
+.footer_cols a:hover, .footer_cols a:active {
+	color: #999999 !important;
+}
+/* overwrite 123rf_v011.css end */
+a.footer-contri-link:hover, a.footer-contri-link:active {
+	color: #4a4a4a !important;
+}
+.font-jp {
+	font-size: 11px !important;
+    line-height: 12px !important;
+}
+.font-itru {
+	font-size: 11px !important;
+}
+.font-kr {
+	font-size: 9px !important;
+}
+.font-general {
+	font-size: 16px !important;
+}
