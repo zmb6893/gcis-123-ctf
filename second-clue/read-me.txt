@@ -1,7 +1,7 @@
 
 Make a "solution-2.txt" to record your answers (no spaces, no new lines). 
 
-1. How many directories are there in the root directory?
+1. How many directories are there in the root directory? Take that answer and subtract it by 1.
 
 2. In the "images" directory, find the image file that includes the letter "q" in its filename and open it. Record the result.
 
